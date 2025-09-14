@@ -279,7 +279,7 @@ fun MainScreen(
                     context.startActivity(
                         Intent(
                             Intent.ACTION_VIEW,
-                            "https://discord.gg/46wCMRVAre".toUri() // Keep this as is, not a user-facing string
+                            "https://discord.gg/K8Q5N2XG".toUri() // Keep this as is, not a user-facing string
                         )
                     )
                 }) {
