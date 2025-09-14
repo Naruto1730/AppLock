@@ -499,7 +499,7 @@ fun SettingsScreen(
                                 context.startActivity(
                                     Intent(
                                         Intent.ACTION_VIEW,
-                                        "https://discord.gg/46wCMRVAre".toUri()
+                                        "https://discord.gg/K8Q5N2XG".toUri()
                                     )
                                 )
                             })
